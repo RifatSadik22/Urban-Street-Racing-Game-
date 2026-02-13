@@ -1,9 +1,28 @@
 # 3D Urban Street Racing
 
-This repository contains the game file `Group11_CSE423.py`. The game was developed as part of a project for CSE423.
+A 3D OpenGL-based endless racing game featuring:
 
-Created this 3D game for my computer graphics course using OpenGL functions.
+- Day/Night Cycle
+- AI Overtaking Cars
+- Drift Mode
+- Boost & Slow Zones
+- Jump Mechanics
+- Camera Modes (Third, First, Cinematic)
+- Health & Speed HUD
+- Cheat Mode
+- Rear View Camera
 
-## How to Play
+## Controls
 
-Instructions on how to play the game can be added here.
+- A/D → Change Lane
+- W/S → Accelerate / Brake
+- SPACE → Drift
+- V → Change Camera
+- N → Day/Night
+- B → Rear View
+- C → Cheat Mode
+- R → Restart
+- P → Pause
+- ESC → Quit
+
+## How to Run
