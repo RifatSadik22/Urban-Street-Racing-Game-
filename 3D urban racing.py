@@ -1,9 +1,4 @@
-"""3D Urban Street Racing
-Member Contributions:
-- Masudur Sadik Rifat (22201145): Player cameras, drift & car physics, infinite world logic
-- Turjo (22101202): Cinematic camera, AI animation,DDobstacles,collision & crash logic
-- Mahir Muntasir Rafsan (22201104): Camera shake & FOV, day/night cycle, powerups & cheats
-"""
+"""3D Urban Street Racing"""
 from OpenGL.GL import *
 from OpenGL.GLUT import *
 from OpenGL.GLU import *
